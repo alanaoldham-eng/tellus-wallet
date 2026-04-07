@@ -1,7 +1,10 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # tellus-wallet
 Mobile-first web app for the Tellus ecosystem wallet and app launcher.
 =======
+=======
+>>>>>>> 045d43c (frontend start)
 # Tellus Wallet Frontend
 
 ## Install
@@ -17,4 +20,7 @@ npm run dev
 3. Click **Continue with email**
 4. Land on `/dashboard`
 5. Edit profile and save
+<<<<<<< HEAD
+>>>>>>> 045d43c (frontend start)
+=======
 >>>>>>> 045d43c (frontend start)
